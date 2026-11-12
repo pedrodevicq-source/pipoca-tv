@@ -1,0 +1,13 @@
+{
+  "applicationId": "com.pedrovicq.cinema",
+  "versionCode": 33,
+  "versionName": "1.6.4",
+  "notes": "A tela de fontes aparece sempre, também em filmes já abertos: a fonte de antes vem primeiro, e dá para trocar antes de começar.",
+  "assets": {
+    "armeabi-v7a": {
+      "url": "https://github.com/pedrodevicq-source/pipoca-tv/releases/download/v1.6.4/Pipoca-1.6.4.apk",
+      "bytes": 71455056,
+      "sha256": "b03ba58c97d995ae5f24d64a229e830c63a6aeba3ffeb226818c6900a469a140"
+    }
+  }
+}
